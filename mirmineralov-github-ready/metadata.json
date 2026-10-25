@@ -1,0 +1,6 @@
+{
+  "name": "MirMineralov — Галерея и магазин натуральных камней",
+  "description": "Интерактивная галерея и магазин коллекционных минералов, кристаллов, друз и кабошонов Мир Минералов (Livemaster) с фильтрами по типу камней, описанием физических и литотерапевтических свойств и корзиной.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
